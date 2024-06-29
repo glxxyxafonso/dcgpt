@@ -1,7 +1,8 @@
+### This project is currently being rewritten.
+
+
 # dcGPT
 ### A Discord chatbot powered by Google's Bard AI
-
-### This project is currently being rewritten.
 
 ![GPT Version](https://img.shields.io/badge/GPT%20Version-Gemini-green?style=flat-square)
 ![Powered by](https://img.shields.io/badge/Powered%20by-pythoneverything.com-purple?style=flat-square)
