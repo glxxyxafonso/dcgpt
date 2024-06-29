@@ -3,7 +3,7 @@
 
 ### This project is currently being rewritten.
 
-![GPT Version](https://img.shields.io/badge/GPT%20Version-Bard%20AI-green?style=flat-square)
+![GPT Version](https://img.shields.io/badge/GPT%20Version-Gemini-green?style=flat-square)
 ![Powered by](https://img.shields.io/badge/Powered%20by-pythoneverything.com-purple?style=flat-square)
 
 License available in the LICENSE file.
